@@ -5,6 +5,7 @@ public class biz {
         System.out.println("Sevda Erdem");
         System.out.println("harika bir gün");
         System.out.println("selamlar");
+        System.out.println("korcan");
 
 
 
