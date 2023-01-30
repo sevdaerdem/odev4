@@ -7,5 +7,6 @@ public class biz {
         System.out.println("merhaba arkadaşlar");
 
 
+
     }
 }
